@@ -26,7 +26,7 @@ I'm a passionate Software Engineer learning at ALX Africa. I love tackling compl
 
 ## Featured Projects 💻
 
-### [AirBnB clone project](project_1_link)
+### [AirBnB clone project](https://github.com/sideeqhammed/airbnb-clone-project)
 <!--
 ![Project 1 Screenshot](https://drive.google.com/file/d/1bDkBhKO0YJDLMsU1zMbuBi9uHrQ4X52A/view?usp=drivesdk)
 -->
