@@ -22,7 +22,7 @@ I'm a passionate Software Engineer learning at ALX Africa. I love tackling compl
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-<-- this is a -->
+[<-- this is a -->]::
 ## Featured Projects 💻
 
 ### [Project 1 Title](project_1_link)
