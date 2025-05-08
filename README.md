@@ -26,7 +26,7 @@ I'm a passionate Software Engineer learning at ALX Africa. I love tackling compl
 
 ### [AirBnB clone project](project_1_link)
 
-![Project 1 Screenshot](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&node-type=canvas)
+![Project 1 Screenshot](https://drive.google.com/file/d/1bDkBhKO0YJDLMsU1zMbuBi9uHrQ4X52A/view?usp=drivesdk)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
