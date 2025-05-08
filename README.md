@@ -40,7 +40,7 @@ AirBnB clone project is a full-stack clone of the popular accommodation booking 
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+<!-- - **[Personal Website / Blog]**(your_website_or_blog_link) -->
 - **[LinkedIn]**(https://www.linkedin.com/in/sideeqhammed05)
 - **[Twitter]**(https://x.com/sideeq_hammed)
 
