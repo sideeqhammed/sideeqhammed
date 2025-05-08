@@ -28,7 +28,7 @@ I'm a passionate Software Engineer learning at ALX Africa. I love tackling compl
 
 ![Project 1 Screenshot](https://drive.google.com/file/d/1bDkBhKO0YJDLMsU1zMbuBi9uHrQ4X52A/view?usp=drivesdk)
 
-**[AirBnB clone project]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+AirBnB clone project is a full-stack clone of the popular accommodation booking platform AirBnB built with HTML, CSS, JavaScript(react), Python (Django) and more.<!-- This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link). -->
 
 <!--
 ### [Project 2 Title](project_2_link)
