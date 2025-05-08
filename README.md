@@ -4,12 +4,12 @@
 
 ## About Me 🚀
 
-I'm a passionate Software Engineer with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Software Engineer learning at ALX Africa. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
+- 🌱 Currently learning: Web Development 
+- 🔭 Working on: AirBnB clone project
+- 🌍 Languages: HTML, CSS, JavaScript, Python
+- 📫 How to reach me: https://x.com/sideeq_hammed
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
