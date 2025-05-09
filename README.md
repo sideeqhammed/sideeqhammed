@@ -9,7 +9,6 @@ I'm a passionate Software Engineer learning at ALX Africa. I love tackling compl
 - 🌱 Currently learning: Web Development 
 - 🔭 Working on: AirBnB clone project
 - 🌍 Languages: HTML, CSS, JavaScript, Python
-- 📫 How to reach me: sideeqhammed05@gmail.com
 <!-- - ⚡ Fun fact: **[a fun fact about yourself]** -->
 
 ## My Skills 🧠
@@ -43,6 +42,7 @@ AirBnB clone project is a full-stack clone of the popular accommodation booking 
 ## Get in Touch 📬
 
 <!-- - **[Personal Website / Blog]**(your_website_or_blog_link) -->
+- **[Gmail](sideeqhammed05@gmail.com)**
 - **[LinkedIn](https://www.linkedin.com/in/sideeqhammed05)**
 - **[Twitter](https://x.com/sideeq_hammed)**
 
