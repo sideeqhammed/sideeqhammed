@@ -27,9 +27,10 @@ I'm a passionate Software Engineer learning at ALX Africa. I love tackling compl
 
 ### [AirBnB clone project](https://github.com/sideeqhammed/airbnb-clone-project)
 
+AirBnB clone project is a full-stack clone of the popular accommodation booking platform AirBnB.
+
 ### [Project design](https://drive.google.com/file/d/1bDkBhKO0YJDLMsU1zMbuBi9uHrQ4X52A/view?usp=drivesdk)
 
-AirBnB clone project is a full-stack clone of the popular accommodation booking platform AirBnB.
 - Tech stack:
   - Frontend: HTML, CSS, JavaScript(react), Python(Django).
   - Backend: PostgreSQL, GraphQL, Celery, Redis, Docker, CI/CD Pipelines.<!-- This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link). -->
@@ -46,7 +47,7 @@ AirBnB clone project is a full-stack clone of the popular accommodation booking 
 
 <!-- - **[Personal Website / Blog]**(your_website_or_blog_link) -->
 - **[Gmail](sideeqhammed05@gmail.com)**
-- **[LinkedIn](https://www.linkedin.com/in/sideeqhammed05)**
+- **[LinkedIn](https://www.linkedin.com/in/sideeqhammed)**
 - **[Twitter](https://x.com/sideeq_hammed)**
 
 
