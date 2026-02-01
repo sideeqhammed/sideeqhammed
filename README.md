@@ -26,24 +26,25 @@ I'm a passionate Software Engineer learning at ALX Africa. I love tackling compl
 
 ## Featured Projects 💻
 
-### [AirBnB clone project](https://github.com/sideeqhammed/airbnb-clone-project)
+### [Library project](https://github.com/sideeqhammed/airbnb-clone-project)
 
 AirBnB clone project is a full-stack clone of the popular accommodation booking platform AirBnB.
 
 ### [Project design](https://drive.google.com/file/d/1bDkBhKO0YJDLMsU1zMbuBi9uHrQ4X52A/view?usp=drivesdk)
 
 - Tech stack:
-  - Frontend: HTML, CSS, JavaScript(react), Python(Django).
-  - Backend: PostgreSQL, GraphQL, Celery, Redis, Docker, CI/CD Pipelines.<!-- This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link). -->
+  - Frontend: HTML, CSS, Tailwind, JavaScript(React).
+  - Backend: python(Django), MySQL, Docker, CI/CD Pipelines.<!-- This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link). -->
+
+### [Todo list project](https://github.com/sideeqhammed/Todo_list_app)
+
+Todo list app is a simple but functional app for creating task list and task management. Created using Tailwind, React, Django, MySQL.
 
 <!--
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+### [Project design](https://drive.google.com/file/d/1bDkBhKO0YJDLMsU1zMbuBi9uHrQ4X52A/view?usp=drivesdk)
 -->
 
+<!-- This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link). -->
 ## Get in Touch 📬
 
 <!-- - **[Personal Website / Blog]**(your_website_or_blog_link) -->
