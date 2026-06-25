@@ -36,24 +36,24 @@ I'm a passionate Software Engineer. I love tackling complex problems, learning n
 Developed a full-stack digital wallet application enabling secure peer-to-peer money transfers between users.
 
 - Tech stack:
-  - Frontend: Tailwind, JavaScript(React).
-  - Backend: python(Django), MongoDB, Docker.
+  - Frontend: JavaScript, React, TailwindCSS.
+  - Backend: Python(Django), MongoDB, Docker.
 
 ### [Library project](https://github.com/sideeqhammed/Alx_capstone_project)
 
 A library management system developed as part of the ALX Software Engineering Program capstone program.
 
 - Tech stack:
-  - Frontend: Tailwind, JavaScript(React).
-  - Backend: python(Django), MySQL, Docker.
+  - Frontend: JavaScript, React, TailwindCSS.
+  - Backend: Python(Django), MySQL, Docker.
 
 ### [Todo list project](https://github.com/sideeqhammed/Todo_list_app)
 
-Todo list app is a simple but functional app for creating task list and task management. Created using Tailwind, React, Django, MySQL.
+Todo list app is a simple but functional app for creating task list and task management.
 
-<!--
-### [Project design](https://drive.google.com/file/d/1bDkBhKO0YJDLMsU1zMbuBi9uHrQ4X52A/view?usp=drivesdk)
--->
+- Tech stack:
+  - Frontend: JavaScript, React, TailwindCSS.
+  - Backend: Python(Django), MySQL, Docker.
 
 <!-- This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link). -->
 ## Get in Touch 📬
