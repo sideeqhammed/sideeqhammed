@@ -31,17 +31,21 @@ I'm a passionate Software Engineer. I love tackling complex problems, learning n
 
 ## Featured Projects 💻
 
-### [Library project](https://github.com/sideeqhammed/Alx_capstone_project)
+### [Digital Wallet Application (Paytm Clone)](https://github.com/sideeqhammed/paytm_clone)
 
-AirBnB clone project is a full-stack clone of the popular accommodation booking platform AirBnB.
-
-<!--
-### [Project design](https://drive.google.com/file/d/1bDkBhKO0YJDLMsU1zMbuBi9uHrQ4X52A/view?usp=drivesdk)
--->
+Developed a full-stack digital wallet application enabling secure peer-to-peer money transfers between users.
 
 - Tech stack:
-  - Frontend: HTML, CSS, Tailwind, JavaScript(React).
-  - Backend: python(Django), MySQL, Docker, CI/CD Pipelines.<!-- This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link). -->
+  - Frontend: Tailwind, JavaScript(React).
+  - Backend: python(Django), MongoDB, Docker.
+
+### [Library project](https://github.com/sideeqhammed/Alx_capstone_project)
+
+A library management system developed as part of the ALX Software Engineering Program capstone program.
+
+- Tech stack:
+  - Frontend: Tailwind, JavaScript(React).
+  - Backend: python(Django), MySQL, Docker.
 
 ### [Todo list project](https://github.com/sideeqhammed/Todo_list_app)
 
