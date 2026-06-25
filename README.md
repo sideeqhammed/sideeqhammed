@@ -4,11 +4,13 @@
 -->
 ## About Me 🚀
 
-I'm a passionate Software Engineer learning at ALX Africa. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Software Engineer. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
+<!--
 - 🌱 Currently learning: Web Development 
 - 🔭 Working on: AirBnB clone project
 - 🌍 Languages: HTML, CSS, JavaScript, Python
+-->
 <!-- - ⚡ Fun fact: **[a fun fact about yourself]** -->
 
 ## My Skills 🧠
