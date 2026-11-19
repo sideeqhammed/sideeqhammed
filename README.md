@@ -37,7 +37,7 @@ I'm a passionate Software Engineer. I love tackling complex problems, learning n
 
 An application for whiteboarding and diagramming application with real-time collaboration capabilities
 
-- Tech stack: React, TailwindCSS, Express, Prisma, Websocket, Turborepo
+- Tech stack: React, TailwindCSS, Express, Prisma, Websocket, Turborepo, Docker
 
 ### [Digital Wallet Application (Paytm Clone)](https://github.com/sideeqhammed/paytm_clone)
 
