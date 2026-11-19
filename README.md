@@ -33,6 +33,12 @@ I'm a passionate Software Engineer. I love tackling complex problems, learning n
 
 ## Featured Projects 💻
 
+### [Excalidraw Clone App](https://github.com/sideeqhammed/draw-app) (Deveopment Ongoing)
+
+An application for whiteboarding and diagramming application with real-time collaboration capabilities
+
+- Tech stack: React, TailwindCSS, Express, Prisma, Websocket, Turborepo
+
 ### [Digital Wallet Application (Paytm Clone)](https://github.com/sideeqhammed/paytm_clone)
 
 Developed a full-stack digital wallet application enabling secure peer-to-peer money transfers between users.
