@@ -19,11 +19,13 @@ I'm a passionate Software Engineer. I love tackling complex problems, learning n
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Pyton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 <!--
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
@@ -36,8 +38,8 @@ I'm a passionate Software Engineer. I love tackling complex problems, learning n
 Developed a full-stack digital wallet application enabling secure peer-to-peer money transfers between users.
 
 - Tech stack:
-  - Frontend: JavaScript, React, TailwindCSS.
-  - Backend: Python(Django), MongoDB, Docker.
+  - Frontend: React, TailwindCSS.
+  - Backend: Express, Prisma.
 
 ### [Library project](https://github.com/sideeqhammed/Alx_capstone_project)
 
